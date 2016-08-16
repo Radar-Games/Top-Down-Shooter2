@@ -27,11 +27,12 @@
             <kind>1</kind>
             <string>/// Setting Variables
 
+global.weaponType = 'Assault Rifle';
 playerHealth = 100;
 nogun = true;
 sprint = 0;
 moving = false;
-pistol = true;
+pistol = false;
 pistolCollected = true;
 pistolAmmo = 28;
 pistolClip = floor(random(4)) +1;

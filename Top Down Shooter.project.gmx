@@ -91,6 +91,7 @@
     </objects>
     <objects name="grp_enemies">
       <object>objects\obj_enemy</object>
+      <object>objects\obj_campaignEnemy</object>
     </objects>
     <objects name="grp_controllers">
       <object>objects\obj_scoreController</object>
@@ -115,6 +116,7 @@
     </objects>
   </objects>
   <rooms name="rooms">
+    <room>rooms\rm_level1</room>
     <room>rooms\rm_intro</room>
     <room>rooms\rm_menu</room>
     <room>rooms\rm_double1Pistol</room>
